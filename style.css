@@ -1,0 +1,278 @@
+
+*{
+    margin:0;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+a{
+    text-decoration: none;
+
+}
+ul li{
+    list-style: none;
+}
+.bar{
+    background-color:#316dc3 !important;
+    padding: 10px;
+    color: white;
+}
+.bar i{
+    margin: 0 10px;
+}
+
+.head-button a{
+    padding: 3px !important;
+    margin-left: 4px;
+    font-size: small;
+}
+.nav{
+    width: 100% !important;
+    position:sticky !important;
+}
+
+.say{
+    margin-left: 120px;
+}
+.nav-button{
+    margin-left: 40px;
+    border-radius: 50% !important;
+}
+
+.intro-head{
+    color: #316dc3;
+    font-weight:700;
+}
+
+.intro-head2{
+    color: #427900;
+    font-weight: 700;
+}
+
+.marqueebar{
+    background-color: #316dc3;
+    color: white;
+    margin-top: 12px;
+    margin-left: 90px;
+    margin-right: 90px;
+
+    
+}
+.intrologo{
+   width: 45px;
+}
+.counterboxes{
+    background-color: #2755e9;
+
+}
+.counter-fonts{
+    font-size: 45px;
+    font-weight: 600;
+}
+.counter-fonts3{
+    color: #00ff00;
+    font-size: 20px;
+}
+
+.fa-heart{
+    font-size: 100px;
+}
+
+.operations{
+    display: flexbox;
+
+}
+.line{
+    width: 70px;
+    height: 3px;
+    background-color: #427900;
+    display: block;
+}
+
+.project-icon{
+    background-color: #f7f8fa !important;
+    
+}
+
+.section-content{
+    box-sizing: border-box !important;
+}
+  
+.column {
+    float: left !important;
+    width: 33.33% !important;
+    padding: 5px !important;
+}
+  
+ 
+.row::after{
+    content: "" !important;
+    clear: both !important;
+    display: table !important;
+}
+.footer{
+    background-color: #25272e;
+}
+
+.foot1{
+    color: #bbb;
+    
+}
+.footer-last{
+    background-color: #316dd9;
+    font-size: 15px;
+
+}
+
+.topbutton{
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+  text-align: right;
+  font-size: 30px;
+  border: #427900;
+  text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+.text1,.text2,.text3,.text4{
+    line-height: 200%;
+}
+
+.navbar-nav{
+    margin-left: 200px;
+}
+
+.icon2{
+    margin-top: 7px;
+    padding: 4.5px;
+}
+
+
+
+
+.dropdown-menu .dropdown-item{
+    display: flex;
+    justify-content: space-between;
+}
+  /* rotate caret on hover */
+  .dropdown-menu > li > a:hover:after {
+    text-decoration: underline;
+    transform: rotate(-90deg);
+}
+
+
+.nav-item .nav-link {
+    border-radius: 1.1rem;  
+    margin-top: 1% !important;
+    margin-right:2%;
+    border: none; 
+    padding:10px 5%; 
+    cursor: pointer;
+   text-align:center;
+    color: gray !important;
+  }
+
+  .navbar-nav li{
+    margin-left: 1px !important;
+   
+  }
+  .navbar-nav >.active .nav-link{
+    color: white !important;
+    background-color: #316DC3 !important;
+    border-radius: 1.1rem !important;  
+  }
+  .nav-item:hover > .nav-link,  .dropdown-menu > .dropdown-item:hover {
+    background-color: #316DC3;
+    color: white !important;
+    transition: 0.7s !important;
+  }
+
+
+/* 
+.title-icon::before{
+    content:"" !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    margin-left: 7px !important;
+    width: 70px !important;
+    border-bottom: 2px solid #427900 !important;
+}
+
+.title-icon::after{
+    content:"" !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    margin left: 12px !important;
+    width: 40px !important;
+    border-bottom: 2px solid #427900 !important;
+} */
+/* 
+@font-face{
+    font-family: "Merriweather";
+    src: url("Merriweather-Bold.ttf") !important;
+}
+
+*{
+    font-family: Merriweather;
+    font-weight: bold;
+}
+
+.img1{
+    width: 25px;
+    border: none;
+    border-radius: 50%;
+}
+
+}
+.header{
+    background-color:dodgerblue;
+}
+.button1{
+    border: none;
+    background-color: dodgerblue;
+}
+.button2{
+    border: none;
+    background-color: dodgerblue;
+}
+.img2{
+    width: 25px;
+    border: none;
+}
+.navbar-brand{
+    margin-left: 90px;
+}
+.navbar-nav{
+    margin-left: 350px;
+}
+.nav-item{
+
+}
+.nav-item:hover{
+    background-color: dodgerblue;
+    font: white;
+}
+.navbar{
+    height: 70px !important;
+
+}
+.sec2{
+    background-color:#3366ff;
+    width:85%;
+    height: 27px;-
+    
+    font-size: 16px;
+}
+.sec1{
+    margin:0 auto 11px;
+}
+h6{
+    color: white;
+    font-size: 20px;
+}
+.text1,.text2{
+    text-align: center;
+} */
